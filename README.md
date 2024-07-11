@@ -7,8 +7,8 @@ I am an atmospheric/climate scientist focused on the regional aspects of climate
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) 
-WRF
-WRF-Chem
+WRF,
+WRF-Chem,
 CMIP climate models
 
 # 📊 GitHub Stats:
